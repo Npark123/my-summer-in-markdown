@@ -12,6 +12,7 @@
 ## Tyler, The Creator
 <p> Tyler's music is a great listen and I highly recommend it to anyone</p>
 
+!(https://www.scdn.co/i/_global/twitter_card-default.jpg)
 # Tennis
 <p>During the break, I would play tennis with a friend or two about once a week. While playing tennis we would warm up before we play and then get into playing a game. We wouldn't have enough time for a full match so we would always end up just playing one set. While playing I would have to bring a hat and towel due to the heat. </p>
 
