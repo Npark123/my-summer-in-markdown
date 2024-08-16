@@ -22,4 +22,5 @@
 # Expectations for this Class/Goals for the School Year
 <p>My main goal for this class is to be able to pass the upcoming AP test in May. A side goal I have is to be able to pass this class with an A and get the credit to boost my GPA. Another goal that I have is to be able to learn how to code using Javascript and make a program with it. I also want to use the experience in this class to potentially help with getting a job in the future. </p>
 
-# 
+# What I did during Summer
+<p>During the summer my main freetime activities were playing video games or playin Tennis. The  multiplayer video games I would play with friends were Roblox, Valorant, and Minecraft. My favorite single player games I played were The Last of Us, Hollow Knight, Stardew Valley, and Fallout. On some days when I went out to hang out with friends we went to places like Six flags or the movie theather. </p>
